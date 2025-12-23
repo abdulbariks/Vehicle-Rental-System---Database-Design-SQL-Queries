@@ -16,6 +16,8 @@ The project evaluates understanding of ERD design, table relationships, primary 
 
 ---
 
+## Part 1: ERD Design
+
 ## 🏗️ Database Design
 
 Entity Relationship Diagram (ERD)
@@ -24,7 +26,7 @@ Entity Relationship Diagram (ERD)
 USERS (1) ──── makes ────► (M) BOOKINGS (M) ──── books ────► (1) VEHICLES
 ```
 
-## SQL Queries
+## Part 2: SQL Queries
 
 ### CREATE DATABASE
 
