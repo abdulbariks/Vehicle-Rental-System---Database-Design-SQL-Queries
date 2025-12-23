@@ -263,3 +263,49 @@ HAVING COUNT(b.booking_id) > 2
 | vehicle_name | total_bookings |
 | :--- | :--- |
 | Honda Civic | 3 |
+
+---
+
+## Part 3: Theory Questions (Viva Practice - Progress, Not Perfection)
+
+#### Question 1
+
+What is a foreign key and why is it important in relational databases?
+
+#### Question 2
+
+What is the difference between WHERE and HAVING clauses in SQL?
+
+#### Question 3
+
+What is a primary key and what are its characteristics?
+
+#### Question 4
+
+What is the difference between INNER JOIN and LEFT JOIN in SQL?
+
+I have completed the **Theory Questions**.
+
+👉 **Theory Questions Video Link:**  
+[Click here to watch the video](https://drive.google.com/file/d/1ZytNbX9ctCSP2R4XKvL3KgFwB0cXnBIk/view?usp=sharing)
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Database: PostgreSQL
+- ERD Tool: Lucidchart
+- Query Language: SQL
+
+## 🔗 Project Links
+
+- 📁 **GitHub Repository:**  
+  [Vehicle Rental System – Database Design & SQL Queries](https://github.com/abdulbariks/Vehicle-Rental-System---Database-Design-SQL-Queries)
+
+- 📊 **ERD (Lucidchart):**  
+  [View ERD Diagram](https://lucid.app/lucidchart/08a1daf6-29dd-4492-ace3-e2798d98d658/edit?viewport_loc=-1418%2C-64%2C2218%2C1022%2C0_0&invitationId=inv_0cd077d4-222e-4305-bf5f-b2031e8cc37b)
+
+- 🎥 **Viva / Theory Questions Video:**  
+  [Watch Video](https://drive.google.com/file/d/1ZytNbX9ctCSP2R4XKvL3KgFwB0cXnBIk/view?usp=sharing)
+
+---
