@@ -26,6 +26,9 @@ Entity Relationship Diagram (ERD)
 USERS (1) ──── makes ────► (M) BOOKINGS (M) ──── books ────► (1) VEHICLES
 ```
 
+📊 **ERD (Lucidchart):**  
+ [View ERD Diagram](https://lucid.app/lucidchart/08a1daf6-29dd-4492-ace3-e2798d98d658/edit?viewport_loc=-1418%2C-64%2C2218%2C1022%2C0_0&invitationId=inv_0cd077d4-222e-4305-bf5f-b2031e8cc37b)
+
 ## Part 2: SQL Queries
 
 ### CREATE DATABASE
